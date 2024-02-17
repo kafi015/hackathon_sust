@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
+import 'package:hackathon_sust/ui/screen/complete_profile.dart';
 import 'package:hackathon_sust/ui/screen/home_screen.dart';
 
 void main()
